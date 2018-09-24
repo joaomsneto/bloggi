@@ -1,2 +1,2 @@
-# bloggi
+# Bloggi
 Study of Vue.js

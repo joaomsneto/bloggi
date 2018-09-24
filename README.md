@@ -1,6 +1,6 @@
-# bloggi
+# Bloggi
 
-> A blog project
+> A blog project to study Vue.js
 
 ## Build Setup
 
